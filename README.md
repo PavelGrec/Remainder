@@ -1,1 +1,1 @@
-For PavelG/app/Remainder
+For PavelG.cz/app/Remainder
